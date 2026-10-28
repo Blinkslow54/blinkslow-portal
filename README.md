@@ -1,6 +1,6 @@
 # Blinkslow Client Portal
 
-Code for the client content portals at blinkslow.com/portal.
+Code for the client content portals at www.blinkslowmarketing.com/client-delivery-portal?c=CLIENT-CODE.
 
 - `portal.js` reads the Blinkslow Client Portals Google Sheet and builds each client's portal.
 - `portal.css` is the portal design.
